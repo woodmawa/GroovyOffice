@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xlsx.iml" filepath="$PROJECT_DIR$/.idea/modules/xlsx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xlsx_main.iml" filepath="$PROJECT_DIR$/.idea/modules/xlsx_main.iml" group="xlsx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xlsx_test.iml" filepath="$PROJECT_DIR$/.idea/modules/xlsx_test.iml" group="xlsx" />
+    </modules>
+  </component>
+</project>
